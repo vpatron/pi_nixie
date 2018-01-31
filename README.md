@@ -1,4 +1,4 @@
-# PiNixie
+# pi_nixie
 Python module to drive 74HC595 based Nixie modules using Raspberry Pi.
 
 Other Raspberry Pi projects drive an Arduino board which drives the Nixie module. PiNixie drives the Nixie module directly for simplcity.
