@@ -1,7 +1,7 @@
 # pi_nixie
 Python module to drive 74HC595 based Nixie modules using Raspberry Pi.
 
-Other Raspberry Pi projects drive an Arduino board which drives the Nixie module. PiNixie drives the Nixie module directly for simplcity.
+Other Raspberry Pi projects drive an Arduino board which drives the Nixie module. PiNixie drives the Nixie module directly for simplicity.
 
 ## Nixie "Arduino Compatible" Modules
 
@@ -68,6 +68,7 @@ The backlight LED color is set by inserting a color character in the string:
   * m -- Magenta
   * y -- Yellow
   * k -- Black (LED off)
+  * w -- White
   
 ## FAQs
 
