@@ -86,3 +86,6 @@ The backlight LED color is set by inserting a color character in the string:
    
     100 Hertz is hard-coded in the module. Move this to a parameter if you want to make it variable.
 
+## Other Projects
+
+You can find other projects I've worked on on my blog at [http://vince.patronweb.com](http://vince.patronweb.com)
